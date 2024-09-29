@@ -1,0 +1,14 @@
+*.conda
+*.ipynb_checkpoints/
+*.pyc
+__pycache__/
+.DS_Store
+env/
+venv/
+logs/
+*.log
+.vscode/
+.idea/
+Thumbs.db
+*.db
+*.sqlite
